@@ -1,0 +1,10 @@
+Program loads a scene with a tier list a survey button and a red circle
+when first loaded the buttons will not work
+when the red circle disapeers it means its gatherd all the avalaible deck lists
+the buttons now work
+clciking on one of the heroes will take you to a page that will at first appear mostly blank
+the program will load the card images from online
+when the red circle disapeers your cards are finnished being gatherd and will appear shortly
+use the scroll bar to move the camera up and down
+hit the back button to return to the tier list
+hit the fabtcg button to open the deck list on your browser to learn more about it.
